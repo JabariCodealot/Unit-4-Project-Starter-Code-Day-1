@@ -1,0 +1,31 @@
+img {
+    height: 20px;
+}
+
+.font {
+    font-family: 'Lobster', cursive;
+}
+
+.newfont {
+    font-family: 'Righteous', cursive;
+}
+
+.menuitem {
+    display: flex;
+    margin: 4px;
+    border: solid blue;
+    padding: 4px;
+}
+
+.listimg {
+    height: 200px;
+
+}
+
+.background-color {
+    color: #4d94ff;
+    background-color: #d9d9d9;
+}
+.menubar{
+    display:flex;
+}
